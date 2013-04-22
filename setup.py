@@ -33,6 +33,9 @@ setup(name='dkiscm.policy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
+          'dkiscm.jobmatrix',
+          'eea.facetednavigation',
+          'diazotheme.bootstrap',
           # -*- Extra requirements: -*-
       ],
       extras_require={
