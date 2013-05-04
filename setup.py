@@ -36,7 +36,7 @@ setup(name='dkiscm.policy',
           'dkiscm.jobmatrix',
           'eea.facetednavigation',
           'diazotheme.bootstrap',
-          'dkiscm.policy'
+          'dkiscm.importer'
           # -*- Extra requirements: -*-
       ],
       extras_require={
