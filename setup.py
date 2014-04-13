@@ -38,7 +38,8 @@ setup(name='dkiscm.policy',
           'diazotheme.bootstrap',
           'dkiscm.importer',
           'dkiscm.theme',
-          'five.intid'
+          'five.intid',
+          'dkiscm.excelie',
           # -*- Extra requirements: -*-
       ],
       extras_require={
